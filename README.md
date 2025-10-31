@@ -6,10 +6,10 @@
 ## Скриншоты
 
 ### Светлая тема
-![Light theme](./public/light.png)
+![Light theme](./public/light.jpg)
 
 ### Тёмная тема
-![Dark theme](./public/dark.png)
+![Dark theme](./public/dark.jpg)
 
 
 ## Функциональность
